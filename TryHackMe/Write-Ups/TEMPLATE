@@ -1,0 +1,64 @@
+# Room Name
+
+---
+
+## Overview
+A brief description of what the room covers and why it matters.
+
+---
+
+## Learning Objectives
+- What skills or concepts does this room teach?
+- What attack or defense techniques are involved?
+
+---
+
+## Tools Used
+List the tools used and why.
+
+---
+
+## Step-by-Step Walkthrough
+Document process.
+
+### **1. Enumeration**
+Commands used:
+
+Notes on findings:
+
+### **2. Exploitation**
+Commands, payloads, or techniques used:
+
+What you discovered and how you used it:
+
+### **3. Privilege Escalation (if applicable)**
+Steps taken:
+
+---
+
+## Screenshots (Optional)
+Add screenshots to support your work.  
+**Do NOT include flags or sensitive content.**
+
+---
+
+## Key Takeaways
+Summarize what you learned.  
+Examples:
+- Improved understanding of Linux privilege escalation
+- Learned how to enumerate hidden directories
+- Practiced SQL injection basics
+
+---
+
+## Challenges & How You Solved Them
+Explain any roadblocks and your thought process in overcoming them.  
+This section is extremely valuable in interviews.
+
+---
+
+## Final Summary
+A short reflection tying everything together.  
+Explain how this room improved your skills or understanding.
+
+---
